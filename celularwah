@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RJ FHD
+http://liebetv.me:80/live/7283984/0214803/25910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RJ HD
+http://liebetv.me:80/live/7283984/0214803/48522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RJ SD
+http://liebetv.me:80/live/7283984/0214803/48523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Curitiba FHD
+http://liebetv.me:80/live/7283984/0214803/48526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Curitiba HD
+http://liebetv.me:80/live/7283984/0214803/48527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Curitiba SD
+http://liebetv.me:80/live/7283984/0214803/48528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Foz do Iguaçu FHD
+http://liebetv.me:80/live/7283984/0214803/48524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Foz do Iguaçu HD
+http://liebetv.me:80/live/7283984/0214803/49614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Maringa HD
+http://liebetv.me:80/live/7283984/0214803/48525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paraná HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Paraná HD
+http://liebetv.me:80/live/7283984/0214803/49579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Ponta Grossa FHD
+http://liebetv.me:80/live/7283984/0214803/48529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo RPC Ponta Grossa HD
+http://liebetv.me:80/live/7283984/0214803/43156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo S.J do Rio Preto SD " tvg-logo="" group-title="Canais | Globo",Globo S.J do Rio Preto SD 
+http://liebetv.me:80/live/7283984/0214803/40636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo Sergipe HD
+http://liebetv.me:80/live/7283984/0214803/28881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP FHD
+http://liebetv.me:80/live/7283984/0214803/48530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP FHD [H265]
+http://liebetv.me:80/live/7283984/0214803/49609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP HD
+http://liebetv.me:80/live/7283984/0214803/48531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo SP SD
+http://liebetv.me:80/live/7283984/0214803/48532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera  SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera  SD
+http://liebetv.me:80/live/7283984/0214803/48533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera FHD
+http://liebetv.me:80/live/7283984/0214803/48565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera FHD [H265]
+http://liebetv.me:80/live/7283984/0214803/49567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Anhanguera HD
+http://liebetv.me:80/live/7283984/0214803/48566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Asa Branca FHD
+http://liebetv.me:80/live/7283984/0214803/48535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca HD" tvg-logo="" group-title="Canais | Globo",Globo TV Asa Branca HD
+http://liebetv.me:80/live/7283984/0214803/40665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Bahia FHD
+http://liebetv.me:80/live/7283984/0214803/48536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Bahia HD
+http://liebetv.me:80/live/7283984/0214803/48537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Bahia SD
+http://liebetv.me:80/live/7283984/0214803/48538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Belem FHD
+http://liebetv.me:80/live/7283984/0214803/48539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem HD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Belem HD
+http://liebetv.me:80/live/7283984/0214803/48540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem SD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Belem SD
+http://liebetv.me:80/live/7283984/0214803/48541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia FHD" tvg-logo="https://www.liebeurl.me/logos/globo.png" group-title="Canais | Globo",Globo TV Brasilia FHD
+http://liebetv.me:80/live/7283984/0214803/48542.m3u8
